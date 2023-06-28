@@ -1,4 +1,4 @@
-# phone_auth_firebase
+# Friends Chat App
 
 A new Flutter project.
 
